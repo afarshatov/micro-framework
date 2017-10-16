@@ -1,10 +1,10 @@
 <?php
 
-namespace Lib\Route;
+namespace Micro\Route;
 
 use Exception;
-use Lib\Request;
-use Lib\Route;
+use Micro\Request;
+use Micro\Route;
 
 class StaticRoute extends Route
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace Lib\Response;
+namespace Micro\Response;
 
-use Lib\Response;
+use Micro\Response;
 
 /**
  * Class NotFoundResponse
- * @package Lib
+ * @package Micro
  */
 class NotFoundResponse extends Response
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Lib\Controller;
+namespace Micro\Controller;
 
-use Lib\Controller;
-use Lib\Response\JsonResponse;
+use Micro\Controller;
+use Micro\Response\JsonResponse;
 
 class AjaxController extends Controller
 {

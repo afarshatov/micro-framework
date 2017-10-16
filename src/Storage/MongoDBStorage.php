@@ -1,8 +1,8 @@
 <?php
 
-namespace Lib\Storage;
+namespace Micro\Storage;
 
-use Lib\Storage;
+use Micro\Storage;
 use MongoDB\Client;
 use MongoDB\Database;
 use MongoDB\Collection;

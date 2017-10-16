@@ -1,8 +1,8 @@
 <?php
 
-namespace Lib\Validator;
+namespace Micro\Validator;
 
-use Lib\Validator;
+use Micro\Validator;
 
 class UrlValidator extends Validator
 {

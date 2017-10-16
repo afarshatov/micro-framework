@@ -1,13 +1,13 @@
 <?php
 
-namespace Lib\Response;
+namespace Micro\Response;
 
-use Lib\Response;
+use Micro\Response;
 use Exception;
 
 /**
  * Class RedirectResponse
- * @package Lib
+ * @package Micro
  */
 class RedirectResponse extends Response
 {

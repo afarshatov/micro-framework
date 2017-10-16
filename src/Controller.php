@@ -1,12 +1,12 @@
 <?php
 
-namespace Lib;
+namespace Micro;
 
 use Exception;
 
 /**
  * Class Controller
- * @package Lib
+ * @package Micro
  */
 class Controller
 {

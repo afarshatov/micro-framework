@@ -1,13 +1,13 @@
 <?php
 
-namespace Lib;
+namespace Micro;
 
 use Exception;
 use MongoDB\Model\BSONDocument;
 
 /**
  * Class DbModel
- * @package Lib
+ * @package Micro
  */
 abstract class DbModel
 {

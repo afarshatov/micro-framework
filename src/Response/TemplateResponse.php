@@ -1,9 +1,9 @@
 <?php
 
-namespace Lib\Response;
+namespace Micro\Response;
 
-use Lib\Response;
-use Lib\Template;
+use Micro\Response;
+use Micro\Template;
 
 class TemplateResponse extends Response
 {

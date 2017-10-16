@@ -1,16 +1,16 @@
 <?php
 
-namespace Lib\Controller;
+namespace Micro\Controller;
 
 use Exception;
-use Lib\Controller;
-use Lib\Response;
-use Lib\Response\JsonResponse;
-use Lib\Response\TextResponse;
+use Micro\Controller;
+use Micro\Response;
+use Micro\Response\JsonResponse;
+use Micro\Response\TextResponse;
 
 /**
  * Class ErrorController
- * @package Lib
+ * @package Micro
  */
 class ErrorController extends Controller
 {

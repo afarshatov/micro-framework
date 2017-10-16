@@ -1,9 +1,9 @@
 <?php
 
-namespace Lib\Controller;
+namespace Micro\Controller;
 
-use Lib\Controller;
-use Lib\Response\TemplateResponse;
+use Micro\Controller;
+use Micro\Response\TemplateResponse;
 
 class TemplateController extends Controller
 {

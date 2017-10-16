@@ -1,9 +1,9 @@
 <?php
 
-namespace Lib;
+namespace Micro;
 
 use Exception;
-use Lib\Response\JsonResponse;
+use Micro\Response\JsonResponse;
 
 abstract class Response
 {

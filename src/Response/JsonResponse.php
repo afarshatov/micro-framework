@@ -1,8 +1,8 @@
 <?php
 
-namespace Lib\Response;
+namespace Micro\Response;
 
-use Lib\Response;
+use Micro\Response;
 use Exception;
 
 class JsonResponse extends Response

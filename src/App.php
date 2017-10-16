@@ -1,10 +1,10 @@
 <?php
 
-namespace Lib;
+namespace Micro;
 
 use Exception;
-use Lib\Route\StaticRoute;
-use Lib\Controller\ErrorController;
+use Micro\Route\StaticRoute;
+use Micro\Controller\ErrorController;
 
 class App
 {
@@ -26,7 +26,7 @@ class App
     /**
      * @var string
      */
-    const ERROR_ACTION = '\Lib\Controller\ErrorController::renderException';
+    const ERROR_ACTION = '\Micro\Controller\ErrorController::renderException';
 
     /**
      * @var App
