@@ -1,0 +1,13 @@
+{
+    "name": "micro/micro",
+    "description": "micro php framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrey Farshatov",
+            "email": "a.farshatov@mediam.ru"
+        }
+    ],
+    "require": {},
+    "version": "0.1.0"
+}
